@@ -4,6 +4,10 @@ Tài liệu này hệ thống hóa các quy trình làm việc từ quản lý m
 
 Được ghi chú trong quá trình học tập với Anh Khiêm siêu giỏi, được giải thích rõ ràng và thực hiện để dễ hiểu.
 
+Các lệnh Git nên được thực hiện nhiều lần và thời gian dài để nhớ rõ và chính xác hơn.
+
+Cảm ơn đã đọc.
+
 ---
 
 ## 1. Quản lý Môi trường & Hệ thống (System Setup)
