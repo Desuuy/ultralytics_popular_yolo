@@ -1,12 +1,12 @@
 # 🚀 MLOps & DevOps Standard Operating Procedures (SOP)
 
-Tài liệu này hệ thống hóa các quy trình làm việc từ quản lý mã nguồn (Git), đóng gói ứng dụng (Docker) đến vận hành mô hình (MLflow) và kiểm thử (Testing).
+- Tài liệu này hệ thống hóa các quy trình làm việc từ quản lý mã nguồn (Git), đóng gói ứng dụng (Docker) đến vận hành mô hình (MLflow) và kiểm thử (Testing).
 
-Được ghi chú trong quá trình học tập với Anh Khiêm siêu giỏi, được giải thích rõ ràng và thực hiện để dễ hiểu.
+- Được ghi chú trong quá trình học tập với Anh Khiêm siêu giỏi, được giải thích rõ ràng và thực hiện để dễ hiểu.
 
-Các lệnh Git nên được thực hiện nhiều lần và thời gian dài để nhớ rõ và chính xác hơn.
+- Các lệnh Git nên được thực hiện nhiều lần và trong thời gian dài để nhớ rõ và chính xác hơn.
 
-Cảm ơn đã đọc.
+- Cảm ơn đã đọc.
 
 ---
 
@@ -113,4 +113,5 @@ Trước khi bắt đầu bất kỳ thao tác nào, hãy xác định vị trí
 * `-v`: Verbose (Hiển thị chi tiết thông tin).
 
 ---
+
 **💡 Ghi chú DevOps:** Luôn kiểm tra `git status` trước khi thực hiện commit để tránh đẩy nhầm các file rác hoặc dữ liệu nhạy cảm vào kho lưu trữ.
