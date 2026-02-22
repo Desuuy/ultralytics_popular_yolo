@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="09af1d89-6b93-469b-9740-241f750e067a_Git+and+GitHub.jpg" alt="Git và GitHub" width="50%">
+</p>
+
 # 🚀 MLOps & DevOps Standard Operating Procedures (SOP)
 
 - Tài liệu này hệ thống hóa các quy trình làm việc từ quản lý mã nguồn (Git), đóng gói ứng dụng (Docker) đến vận hành mô hình (MLflow) và kiểm thử (Testing).
@@ -115,3 +119,4 @@ Trước khi bắt đầu bất kỳ thao tác nào, hãy xác định vị trí
 ---
 
 **💡 Ghi chú DevOps:** Luôn kiểm tra `git status` trước khi thực hiện commit để tránh đẩy nhầm các file rác hoặc dữ liệu nhạy cảm vào kho lưu trữ.
+
