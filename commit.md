@@ -50,7 +50,7 @@ Gợi ý: chọn `type` phù hợp nhất với mục tiêu chính của commit.
 Ghi rõ vùng ảnh hưởng, ví dụ: `auth`, `api`, `ui`, `model`.
 
 Ví dụ header:
-`feat(api): add jwt authentication flow`
+`feat(api): add JWT authentication flow.`
 
 ### Subject (Tiêu đề)
 
@@ -95,7 +95,7 @@ Existing user records must be migrated using the provided script.
 
 ### Thêm tính năng mới
 ```text
-feat(api): add jwt authentication flow
+feat(api): add JWT authentication flow
 ```
 
 ### Sửa lỗi logic
@@ -118,9 +118,9 @@ Existing user records must be migrated using the provided script.
 
 ---
 
-## 6. Gợi ý thêm (PR Template)
+## 6. Gợi ý (PR Template)
 
-Nếu bạn muốn chuyên nghiệp hóa quy trình hơn nữa, bạn có thể thêm file `.github/PULL_REQUEST_TEMPLATE.md` để chuẩn hóa nội dung PR (tóm tắt thay đổi, issue liên quan, checklist, ...).
+Nếu bạn muốn chuyên nghiệp hóa quy trình hơn nữa, bạn có thể thêm file `.github/PULL_REQUEST_TEMPLATE.md` để chuẩn hóa nội dung PR (tóm tắt thay đổi, issue liên quan, checklist, …).
 
 Ví dụ tối giản (gợi ý):
 ```md
